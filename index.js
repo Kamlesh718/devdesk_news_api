@@ -9,7 +9,7 @@ const port = 3000;
 
 app.use(
   cors({
-    origin: "https://devdesk-chi.vercel.app/",
+    origin: "https://devdesk-chi.vercel.app",
   })
 );
 
